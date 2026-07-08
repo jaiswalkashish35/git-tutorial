@@ -3,3 +3,4 @@ password.txt
 *.log          
 node_module/
 !imp.log            # it will take imp.log in project
+about.html
