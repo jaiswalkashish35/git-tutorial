@@ -2,4 +2,4 @@ db.sql
 password.txt
 *.log          
 node_module/
-!imp.log            
+!imp.log            # it will take imp.log in project
